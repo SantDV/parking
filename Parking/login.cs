@@ -24,7 +24,7 @@ namespace Parking
         {
 
 
-            MySqlConnection conexionDB = Conexion.conexion();
+            MySqlConnection conexionDB = Conexiones.conexion();
             string busqueda = "select usuario, pass from usuarios where usuario = '"+ txtUsuario.Text +"' and pass = '"+ txtPass.Text +"';";
 
             conexionDB.Open();

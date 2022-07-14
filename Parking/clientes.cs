@@ -35,7 +35,7 @@ namespace Parking
             /*---------------------------------------*/
 
 
-            MySqlConnection conexionDB = Conexion.conexion();
+            MySqlConnection conexionDB = Conexiones.conexion();
 
             conexionDB.Open();
 
@@ -96,7 +96,7 @@ namespace Parking
 
         private void button4_Click(object sender, EventArgs e)
         {
-            MySqlConnection conexionDB = Conexion.conexion();
+            MySqlConnection conexionDB = Conexiones.conexion();
             DataTable datable = new DataTable();
             MySqlDataReader resultado;
 
@@ -213,13 +213,13 @@ namespace Parking
 
         private void button3_Click(object sender, EventArgs e)
         {
-            MySqlConnection conexionDB = Conexion.conexion();
+            MySqlConnection conexionDB = Conexiones.conexion();
         }
 
         private void clientes_Load(object sender, EventArgs e)
         {
             {
-                MySqlConnection conexionDB = Conexion.conexion();
+                MySqlConnection conexionDB = Conexiones.conexion();
                 DataTable datable = new DataTable();
                 MySqlDataReader resultado;
 
@@ -291,7 +291,7 @@ namespace Parking
             sqlRegistro = "insert into clientes (nombre, apellido, documento, telefono, vehiculo, patente, fechaRegistro) values ('" + nombre + "', '" + apellido + "','" + documento + "', '" + telefono + "', '" + vehiculo + "', '" + patenteR + "', '" + DateTime.Now + "');";
 
 
-            MySqlConnection conexionDB = Conexion.conexion();
+            MySqlConnection conexionDB = Conexiones.conexion();
 
             conexionDB.Open();
 
@@ -312,5 +312,8 @@ namespace Parking
             }
         }
     }
-    
+
+    public class Class1
+    {
+    }
 }

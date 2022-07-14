@@ -16,72 +16,21 @@ namespace Parking
             cbxBuscar.SelectedIndex = 0;
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void btnIngresar_Click(object sender, EventArgs e)
         {
-            DataTable datable = new DataTable();
-          
+            Conexiones conexiones = new Conexiones();
 
-            string patente = txtPatente.Text;
-            int vehiculo = cmbVehiculo.SelectedIndex+1;
-            string sql = "";
-            
+            conexiones.IngresarDatos(txtPatente.Text, cmbVehiculo.SelectedIndex);
 
-            
-
-
-            if (String.IsNullOrEmpty(txtPatente.Text))
-            {
-                MessageBox.Show("Debe llenar el campo patente");
-
-            }
-
-            else if (cmbVehiculo.SelectedIndex < 0)
-            {
-                MessageBox.Show("Seleccione el vehículo a ingresar");
-            }
-           
-            else
-            {
-                sql = "insert into patentes (idPatente, tarifa, cliente) values ('" + patente + "', '" + 1 + "', '" + 1 + "');" +
-                    "insert into ingresoysalida (patente, horaingreso, vehiculo, estado) values ('" + patente + "', '" + DateTime.Now + "', '" + vehiculo + "', '" + 1 + "');";
-            
-
-
-                MySqlConnection conexionDB = Conexion.conexion();
-                conexionDB.Open();
-
-                try
-                {
-                    MySqlCommand COMANDO = new MySqlCommand(sql, conexionDB);
-                    COMANDO.ExecuteNonQuery();
-                    MessageBox.Show("Registro guardado!");
-                    
-
-                }
-                catch (Exception ex)
-                {
-                    MessageBox.Show("Error al guardar! " + ex.Message);
-                }
-                finally
-                {
-                    conexionDB.Close();
-                    actualizarPlanilla();
-                }
-
-
-            }
+            dgvEstado.DataSource = conexiones.actualizarPlanilla();
 
         }
 
-        private void tableUpdateStatementBindingSource_CurrentChanged(object sender, EventArgs e)
-        {
-
-        }
 
         private void btnBuscar_Click(object sender, EventArgs e)
         {
 
-            MySqlConnection conexionDB = Conexion.conexion();
+            MySqlConnection conexionDB = Conexiones.conexion();
             DataTable datable = new DataTable();
             MySqlDataReader resultado;
             
@@ -136,47 +85,16 @@ namespace Parking
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            actualizarPlanilla();
+            Conexiones conexiones = new Conexiones();
+
+            dgvEstado.DataSource = conexiones.actualizarPlanilla();
+
+
             tarifas cargarT = new tarifas();
 
             cargarT.cargarTarifas();
             
         
-        }
-
-        private void actualizarPlanilla()
-        {
-            Settings1 plazasMaxima = new Settings1();
-            int plazasMaximas = plazasMaxima.plazasMaxima;
-
-
-            MySqlConnection conexionDB = Conexion.conexion();
-            DataTable datable = new DataTable();
-            MySqlDataReader resultado;
-
-            try
-            {
-
-                MySqlCommand actPlanilla = new MySqlCommand("SELECT id, horaIngreso, patente, vehiculo.vehiculo FROM ingresoysalida, vehiculo where estado = 1 and ingresoysalida.vehiculo = vehiculo.idVehiculo;", conexionDB);
-
-                actPlanilla.CommandType = CommandType.Text;
-
-                conexionDB.Open();
-
-                resultado = actPlanilla.ExecuteReader();
-
-                datable.Load(resultado);              
-
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show("ERROR: " + ex.Message);
-            }
-
-            dgvEstado.DataSource = datable;
-
-    
-
         }
 
 
@@ -311,14 +229,14 @@ namespace Parking
             
         }
 
-        private void button1_Click_1(object sender, EventArgs e)
+        private void sale_Click_1(object sender, EventArgs e)
         {
 
             if (MessageBox.Show("Confirma salida del vehiculo", "Message", MessageBoxButtons.YesNo) == DialogResult.Yes)
             {
                 DataTable datable = new DataTable();
 
-                string update = "";
+    
 
                 string idSelected = Convert.ToString(dgvEstado.CurrentCell.Value);
                 int volverCelda = Convert.ToInt32(dgvEstado.CurrentCell.RowIndex);
@@ -362,49 +280,17 @@ namespace Parking
                 lblTotal.Text = total.ToString();
                 /*------------------*/
 
-                update = "UPDATE `parkingdb`.`ingresoysalida` SET `horasalida` = '" + DateTime.Now + "', `estado` = '" + 0 + "', `total` = '" + total + "' WHERE(`id` = '" + idSelected + "');";
+                Conexiones conexiones = new Conexiones();
 
-
-
-                MySqlConnection conexionDB = Conexion.conexion();
-                conexionDB.Open();
-
-                try
-                {
-
-                    MySqlCommand COMANDO = new MySqlCommand(update, conexionDB);
-                    COMANDO.ExecuteNonQuery();
-
-                    //actualiza planilla luego de cargar salida
-
-                    actualizarPlanilla();
-
-                }
-                catch (Exception ex)
-                {
-                    MessageBox.Show("Error al guardar! " + ex.Message);
-                }
-                finally
-                {
-                    conexionDB.Close();
-
-                }
+                conexiones.SaleVehiculo(total, idSelected);
             }
         
         
         }
 
-        private void checkBox3_CheckedChanged(object sender, EventArgs e)
-        {
-            
-        
-        }
 
-        private void ckbMoto_CheckedChanged(object sender, EventArgs e)
-        {
-            
-            
-        }
+
+     
 
         private void ckbBici_CheckedChanged(object sender, EventArgs e)
         {
@@ -622,5 +508,8 @@ namespace Parking
         }
     }
 
+    public class Class2
+    {
+    }
 }
 

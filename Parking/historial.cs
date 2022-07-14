@@ -22,7 +22,7 @@ namespace Parking
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
-            MySqlConnection conexionDB = Conexion.conexion();
+            MySqlConnection conexionDB = Conexiones.conexion();
             DataTable datable = new DataTable();
             MySqlDataReader resultado;
                
@@ -95,7 +95,7 @@ namespace Parking
 
         private void historial_Load(object sender, EventArgs e)
         {
-            MySqlConnection conexionDB = Conexion.conexion();
+            MySqlConnection conexionDB = Conexiones.conexion();
             DataTable datable = new DataTable();
             MySqlDataReader resultado;
 

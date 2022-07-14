@@ -25,7 +25,7 @@ namespace Parking
 
         public void cargarTarifas()
         {
-            MySqlConnection conexionDB = Conexion.conexion();
+            MySqlConnection conexionDB = Conexiones.conexion();
             DataTable datable = new DataTable();
             MySqlDataReader resultado;
 

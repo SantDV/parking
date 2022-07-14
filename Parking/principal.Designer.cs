@@ -29,6 +29,7 @@ namespace Parking
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
             this.btnFacturacion = new System.Windows.Forms.Button();
             this.btnEmpleados = new System.Windows.Forms.Button();
@@ -65,6 +66,7 @@ namespace Parking
             this.btnIngresa = new System.Windows.Forms.Button();
             this.imgMoto = new System.Windows.Forms.PictureBox();
             this.imgAuto = new System.Windows.Forms.PictureBox();
+            this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.BarraTitulo.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
@@ -250,7 +252,7 @@ namespace Parking
             this.button1.TabIndex = 15;
             this.button1.Text = "SALE";
             this.button1.UseVisualStyleBackColor = false;
-            this.button1.Click += new System.EventHandler(this.button1_Click_1);
+            this.button1.Click += new System.EventHandler(this.sale_Click_1);
             // 
             // panel2
             // 
@@ -548,7 +550,7 @@ namespace Parking
             this.btnIngresa.TabIndex = 0;
             this.btnIngresa.Text = "INGRESAR";
             this.btnIngresa.UseVisualStyleBackColor = false;
-            this.btnIngresa.Click += new System.EventHandler(this.button1_Click);
+            this.btnIngresa.Click += new System.EventHandler(this.btnIngresar_Click);
             // 
             // imgMoto
             // 
@@ -568,6 +570,11 @@ namespace Parking
             this.imgAuto.Size = new System.Drawing.Size(293, 170);
             this.imgAuto.TabIndex = 16;
             this.imgAuto.TabStop = false;
+            // 
+            // contextMenuStrip1
+            // 
+            this.contextMenuStrip1.Name = "contextMenuStrip1";
+            this.contextMenuStrip1.Size = new System.Drawing.Size(61, 4);
             // 
             // principal
             // 
@@ -610,7 +617,6 @@ namespace Parking
         private System.Windows.Forms.TextBox txtBuscar;
         private System.Windows.Forms.Button btnBuscar;
         private System.Windows.Forms.Button btnIngresa;
-        private System.Windows.Forms.DataGridView dgvEstado;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.PictureBox imgAuto;
         private System.Windows.Forms.PictureBox imgMoto;
@@ -637,6 +643,16 @@ namespace Parking
         private System.Windows.Forms.Label lblTotal;
         private System.Windows.Forms.Label lbl4;
         private System.Windows.Forms.Label lblPesos;
+        private System.Windows.Forms.ContextMenuStrip contextMenuStrip1;
+        public System.Windows.Forms.DataGridView dgvEstado;
+    }
+
+    public class Class3
+    {
+    }
+
+    public interface Interface1
+    {
     }
 }
 

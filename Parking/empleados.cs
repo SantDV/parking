@@ -33,7 +33,7 @@ namespace Parking
             string sqlRegistro = "insert into usuarios (usuario, pass) values ('"+usuario+"', '"+contraseña+"');";
             
 
-            MySqlConnection conexionDB = Conexion.conexion();
+            MySqlConnection conexionDB = Conexiones.conexion();
 
 
             // TRY para guardar usuario y contraseña
@@ -151,7 +151,7 @@ namespace Parking
   
         private void button4_Click(object sender, EventArgs e)
         {
-            MySqlConnection conexionDB = Conexion.conexion();
+            MySqlConnection conexionDB = Conexiones.conexion();
             DataTable datable = new DataTable();
             MySqlDataReader resultado;
 
