@@ -1,0 +1,125 @@
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\Parking\Parking\obj\Debug\Parking.Properties.Resources.resources
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\Parking\Parking\obj\Debug\Parking.csproj.GenerateResource.cache
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\Parking\Parking\obj\Debug\Parking.csproj.CoreCompileInputs.cache
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\Parking\Parking\obj\Debug\Parking.csproj.AssemblyReference.cache
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\Parking\Parking\obj\Debug\Parking.csproj.SuggestedBindingRedirects.cache
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\Parking\Parking\bin\Debug\Parking.exe.config
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\Parking\Parking\bin\Debug\Parking.exe
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\Parking\Parking\bin\Debug\Parking.pdb
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\Parking\Parking\bin\Debug\MySql.Data.dll
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\Parking\Parking\bin\Debug\Google.Protobuf.dll
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\Parking\Parking\bin\Debug\ZstdNet.dll
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\Parking\Parking\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\Parking\Parking\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\Parking\Parking\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\Parking\Parking\bin\Debug\System.Memory.dll
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\Parking\Parking\bin\Debug\System.Buffers.dll
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\Parking\Parking\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\Parking\Parking\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\Parking\Parking\bin\Debug\MySql.Data.xml
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\Parking\Parking\obj\Debug\Parking.csproj.CopyComplete
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\Parking\Parking\obj\Debug\Parking.exe
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\Parking\Parking\obj\Debug\Parking.pdb
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\Parking\Parking\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\Parking\Parking\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\Parking\Parking\bin\Debug\Google.Protobuf.pdb
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\Parking\Parking\bin\Debug\Google.Protobuf.xml
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\Parking\Parking\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\Parking\Parking\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\Parking\Parking\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\Parking\Parking\bin\Debug\System.Buffers.xml
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\Parking\Parking\bin\Debug\System.Memory.xml
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\Parking\Parking\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\Parking\Parking\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\Parking\Parking\obj\Debug\Parking.clientes.resources
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\Parking\Parking\obj\Debug\Parking.principal.resources
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\Parking\Parking\obj\Debug\Parking.historial.resources
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\Parking\Parking\obj\Debug\Parking.empleados.resources
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\Parking\Parking\obj\Debug\Parking.frmLogin.resources
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\Parking\Parking\obj\Debug\Parking.tarifas.resources
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\prueba con clases\Parking\obj\Debug\Parking.csproj.AssemblyReference.cache
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\prueba con clases\Parking\obj\Debug\Parking.csproj.SuggestedBindingRedirects.cache
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\prueba con clases\Parking\obj\Debug\Parking.empleados.resources
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\prueba con clases\Parking\obj\Debug\Parking.historial.resources
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\prueba con clases\Parking\obj\Debug\Parking.frmLogin.resources
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\prueba con clases\Parking\obj\Debug\Parking.principal.resources
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\prueba con clases\Parking\obj\Debug\Parking.Properties.Resources.resources
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\prueba con clases\Parking\obj\Debug\Parking.tarifas.resources
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\prueba con clases\Parking\obj\Debug\Parking.csproj.GenerateResource.cache
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\prueba con clases\Parking\obj\Debug\Parking.csproj.CoreCompileInputs.cache
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\prueba con clases\Parking\obj\Debug\Parking.exe
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\prueba con clases\Parking\obj\Debug\Parking.pdb
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\prueba con clases\Parking\bin\Debug\Parking.exe.config
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\prueba con clases\Parking\bin\Debug\Parking.exe
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\prueba con clases\Parking\bin\Debug\Parking.pdb
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\prueba con clases\Parking\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\prueba con clases\Parking\bin\Debug\Google.Protobuf.dll
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\prueba con clases\Parking\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\prueba con clases\Parking\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\prueba con clases\Parking\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\prueba con clases\Parking\bin\Debug\MySql.Data.dll
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\prueba con clases\Parking\bin\Debug\System.Buffers.dll
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\prueba con clases\Parking\bin\Debug\System.Memory.dll
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\prueba con clases\Parking\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\prueba con clases\Parking\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\prueba con clases\Parking\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\prueba con clases\Parking\bin\Debug\ZstdNet.dll
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\prueba con clases\Parking\bin\Debug\Google.Protobuf.pdb
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\prueba con clases\Parking\bin\Debug\Google.Protobuf.xml
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\prueba con clases\Parking\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\prueba con clases\Parking\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\prueba con clases\Parking\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\prueba con clases\Parking\bin\Debug\MySql.Data.xml
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\prueba con clases\Parking\bin\Debug\System.Buffers.xml
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\prueba con clases\Parking\bin\Debug\System.Memory.xml
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\prueba con clases\Parking\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\prueba con clases\Parking\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\prueba con clases\Parking\obj\Debug\Parking.csproj.CopyComplete
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\prueba con clases\Parking\obj\Debug\Parking.configuracion.resources
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\prueba con clases\Parking\obj\Debug\Parking.exe.config
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\prueba con clases\Parking\obj\Debug\Parking.facturacion.resources
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\prueba con clases\Parking\obj\Debug\Parking.Resumen.resources
+C:\Users\vsant\Desktop\Finales 2do\Final Taller\prueba con clases\Parking\obj\Debug\Parking.Clientes.resources
+C:\Users\vsant\Desktop\Codigo fuente y BD\Codigo fuente y BD\codigoFuente\Parking\bin\Debug\Parking.exe.config
+C:\Users\vsant\Desktop\Codigo fuente y BD\Codigo fuente y BD\codigoFuente\Parking\bin\Debug\Parking.exe
+C:\Users\vsant\Desktop\Codigo fuente y BD\Codigo fuente y BD\codigoFuente\Parking\bin\Debug\Parking.pdb
+C:\Users\vsant\Desktop\Codigo fuente y BD\Codigo fuente y BD\codigoFuente\Parking\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\vsant\Desktop\Codigo fuente y BD\Codigo fuente y BD\codigoFuente\Parking\bin\Debug\Google.Protobuf.dll
+C:\Users\vsant\Desktop\Codigo fuente y BD\Codigo fuente y BD\codigoFuente\Parking\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\vsant\Desktop\Codigo fuente y BD\Codigo fuente y BD\codigoFuente\Parking\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\vsant\Desktop\Codigo fuente y BD\Codigo fuente y BD\codigoFuente\Parking\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\vsant\Desktop\Codigo fuente y BD\Codigo fuente y BD\codigoFuente\Parking\bin\Debug\MySql.Data.dll
+C:\Users\vsant\Desktop\Codigo fuente y BD\Codigo fuente y BD\codigoFuente\Parking\bin\Debug\System.Buffers.dll
+C:\Users\vsant\Desktop\Codigo fuente y BD\Codigo fuente y BD\codigoFuente\Parking\bin\Debug\System.Memory.dll
+C:\Users\vsant\Desktop\Codigo fuente y BD\Codigo fuente y BD\codigoFuente\Parking\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\vsant\Desktop\Codigo fuente y BD\Codigo fuente y BD\codigoFuente\Parking\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vsant\Desktop\Codigo fuente y BD\Codigo fuente y BD\codigoFuente\Parking\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\vsant\Desktop\Codigo fuente y BD\Codigo fuente y BD\codigoFuente\Parking\bin\Debug\ZstdNet.dll
+C:\Users\vsant\Desktop\Codigo fuente y BD\Codigo fuente y BD\codigoFuente\Parking\bin\Debug\Google.Protobuf.pdb
+C:\Users\vsant\Desktop\Codigo fuente y BD\Codigo fuente y BD\codigoFuente\Parking\bin\Debug\Google.Protobuf.xml
+C:\Users\vsant\Desktop\Codigo fuente y BD\Codigo fuente y BD\codigoFuente\Parking\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\vsant\Desktop\Codigo fuente y BD\Codigo fuente y BD\codigoFuente\Parking\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\vsant\Desktop\Codigo fuente y BD\Codigo fuente y BD\codigoFuente\Parking\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\vsant\Desktop\Codigo fuente y BD\Codigo fuente y BD\codigoFuente\Parking\bin\Debug\MySql.Data.xml
+C:\Users\vsant\Desktop\Codigo fuente y BD\Codigo fuente y BD\codigoFuente\Parking\bin\Debug\System.Buffers.xml
+C:\Users\vsant\Desktop\Codigo fuente y BD\Codigo fuente y BD\codigoFuente\Parking\bin\Debug\System.Memory.xml
+C:\Users\vsant\Desktop\Codigo fuente y BD\Codigo fuente y BD\codigoFuente\Parking\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\vsant\Desktop\Codigo fuente y BD\Codigo fuente y BD\codigoFuente\Parking\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vsant\Desktop\Codigo fuente y BD\Codigo fuente y BD\codigoFuente\Parking\obj\Debug\Parking.csproj.AssemblyReference.cache
+C:\Users\vsant\Desktop\Codigo fuente y BD\Codigo fuente y BD\codigoFuente\Parking\obj\Debug\Parking.csproj.SuggestedBindingRedirects.cache
+C:\Users\vsant\Desktop\Codigo fuente y BD\Codigo fuente y BD\codigoFuente\Parking\obj\Debug\Parking.exe.config
+C:\Users\vsant\Desktop\Codigo fuente y BD\Codigo fuente y BD\codigoFuente\Parking\obj\Debug\Parking.configuracion.resources
+C:\Users\vsant\Desktop\Codigo fuente y BD\Codigo fuente y BD\codigoFuente\Parking\obj\Debug\Parking.empleados.resources
+C:\Users\vsant\Desktop\Codigo fuente y BD\Codigo fuente y BD\codigoFuente\Parking\obj\Debug\Parking.Clientes.resources
+C:\Users\vsant\Desktop\Codigo fuente y BD\Codigo fuente y BD\codigoFuente\Parking\obj\Debug\Parking.facturacion.resources
+C:\Users\vsant\Desktop\Codigo fuente y BD\Codigo fuente y BD\codigoFuente\Parking\obj\Debug\Parking.historial.resources
+C:\Users\vsant\Desktop\Codigo fuente y BD\Codigo fuente y BD\codigoFuente\Parking\obj\Debug\Parking.frmLogin.resources
+C:\Users\vsant\Desktop\Codigo fuente y BD\Codigo fuente y BD\codigoFuente\Parking\obj\Debug\Parking.principal.resources
+C:\Users\vsant\Desktop\Codigo fuente y BD\Codigo fuente y BD\codigoFuente\Parking\obj\Debug\Parking.Properties.Resources.resources
+C:\Users\vsant\Desktop\Codigo fuente y BD\Codigo fuente y BD\codigoFuente\Parking\obj\Debug\Parking.Resumen.resources
+C:\Users\vsant\Desktop\Codigo fuente y BD\Codigo fuente y BD\codigoFuente\Parking\obj\Debug\Parking.tarifas.resources
+C:\Users\vsant\Desktop\Codigo fuente y BD\Codigo fuente y BD\codigoFuente\Parking\obj\Debug\Parking.csproj.GenerateResource.cache
+C:\Users\vsant\Desktop\Codigo fuente y BD\Codigo fuente y BD\codigoFuente\Parking\obj\Debug\Parking.csproj.CoreCompileInputs.cache
+C:\Users\vsant\Desktop\Codigo fuente y BD\Codigo fuente y BD\codigoFuente\Parking\obj\Debug\Parking.csproj.CopyComplete
+C:\Users\vsant\Desktop\Codigo fuente y BD\Codigo fuente y BD\codigoFuente\Parking\obj\Debug\Parking.exe
+C:\Users\vsant\Desktop\Codigo fuente y BD\Codigo fuente y BD\codigoFuente\Parking\obj\Debug\Parking.pdb
