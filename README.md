@@ -226,7 +226,8 @@ Los datos serán validados, permitiendo ingresar solo caracteres alfanúmeros, d
 
 ## Vista principal:
 
-![image](https://user-images.githubusercontent.com/89231768/208025627-0e13009f-6345-4231-9b88-b975f7d11729.png)
+![image](https://github.com/SantDV/parking/assets/89231768/c63fb662-7cef-43cb-9f95-97854b81a256)
+
 
 ##
 
